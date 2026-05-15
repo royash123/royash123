@@ -1,2 +1,1 @@
-i'm equationslayer12, a web developer and researcher.
-- currently working as a full-stack developer.
+i'm royash123, a security researcher and a web developer.
